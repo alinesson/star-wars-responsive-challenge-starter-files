@@ -1,0 +1,48 @@
+header {
+  width: 100%;
+  background-color: orange;
+  margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 0 0 0 0;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+
+header div {
+    margin: 0 0 0 0;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+}
+
+main {
+  /*padding-top: 100px;*/
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.card {
+  padding-bottom: 15px;
+  border-style: solid;
+  border-color: gainsboro;
+  border-width: 1px;
+  border-image-outset: 0px;
+  margin-bottom: 20px;
+}
+
+.image {
+  max-width: 100%;
+}
+
+main h2 {
+  margin-bottom: 10px;
+}
+
